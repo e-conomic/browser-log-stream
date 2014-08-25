@@ -1,0 +1,34 @@
+{
+  "name": "browser-log-stream",
+  "version": "0.0.0",
+  "description": "Render a text stream progressively to the browser",
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.4.6",
+    "tape": "^2.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-conomic/browser-log-stream.git"
+  },
+  "author": "e-conomic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-conomic/browser-log-stream/issues"
+  },
+  "homepage": "https://github.com/e-conomic/browser-log-stream",
+  "keywords": [
+    "browser",
+    "log",
+    "stream",
+    "live",
+    "progressive",
+    "rendering"
+  ],
+  "scripts": {
+    "test": "tape test.js"
+  }
+}
