@@ -6,6 +6,8 @@ Render a text stream progressively to the browser
 npm install browser-log-stream
 ```
 
+[![build status](http://img.shields.io/travis/e-conomic/browser-log-stream.svg?style=flat)](http://travis-ci.org/e-conomic/browser-log-stream)
+
 ## Why?
 
 Latest Chrome (and probably other browsers) doesn't render text streams progressively anymore.
